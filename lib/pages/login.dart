@@ -22,6 +22,9 @@ class Login extends StatelessWidget {
                       'https://1000logos.net/wp-content/uploads/2017/03/Kfc_logo-768x432.png')),
             ),
           ),
+          SizedBox(
+            height: 50,
+          ),
           Center(
             child: SizedBox(
               width: 350,
