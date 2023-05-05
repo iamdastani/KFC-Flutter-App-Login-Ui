@@ -1,4 +1,4 @@
-# ftm
+# KFC Flutter App
 
 A new Flutter project.
 
